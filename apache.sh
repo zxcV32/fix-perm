@@ -13,7 +13,7 @@ fi
 
 
 AP_ROOT=$1 # Apache2 root directory
-AP_OWNER=www-data #  Apachd2 owner
+AP_OWNER=www-data #  < -- Apachd2 owner
 AP_GROUP=www-data # <-- Apache2 group
 
 # reset to safe defaults
